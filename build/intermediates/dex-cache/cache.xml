@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\src\libs\jericho-android.3.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5c30622c60db21e28fa04192228990ecf6425f46">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\jericho-android.3.3_91627926fd405d54e16d653df1b47665941239c4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_0987995a699f8f3bf8e9910c4bc6c84df654def9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_9f32939ba78db9ec6a1ed70f198e3eb564abcb80.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db0d404e947a9d01b36cb52db8129d199f6156ac">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b7170e8b26d07510a5423f73149175eae7aa0d2f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_ee650ed838f9202b6cb8737a999f638e1fdb66ed.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_78e3d8c2e4156dbe19a96d5777a8b806401aa1da.jar" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_8f2c82b9b5149d2f87850bab29c1166d6acc288c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_391908b95b4c62b64c4185da0a8c24bcd67d2066.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_b4c35e77977c4b44cc804d804692aca4cf211bfc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_1e62f89ebefa7076ed81c59576038771e4b3ad31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ef949d0d58a4dec65d23d12c6ec78888408671ca">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\instant-run_b4ef6fb3af51d99e6e2f474be299443b93398776.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_93b20ef17c104ccab66ca9bc0348d8d243ac0b53.jar" />
+    </item>
+
+</items>

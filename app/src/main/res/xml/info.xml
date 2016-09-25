@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="setting"
+    android:title="안내">
+
+    <PreferenceCategory
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="개발자">
+        <Preference
+            android:title="개발자"
+            android:summary="공작 (Kongjak)"/>
+        <Preference
+            android:title="문의"
+            android:summary="이메일 보내기">
+            <intent
+                android:action="android.intent.action.SENDTO"
+                android:data="mailto:kwj030212@naver.com" />
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:key="openSource"
+        android:title="오픈소스">
+        <Preference
+            android:key="allSource"
+            android:title="@string/opensource"
+            android:summary="오픈소스 라이선스 확인"/>
+    </PreferenceCategory>
+</PreferenceScreen>
