@@ -4,14 +4,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.kongjak.gongdoms.MapActivity">
 
-    <RelativeLayout
-        android:id="@+id/map_view"
+    <ImageView
+        android:id="@+id/map"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:scaleType="center"
+        android:src="@mipmap/ic_map" />
+
+    <TextView
+        android:id="@+id/maptxt"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="교통안내\n평택에서 50번, 70번 버스 이용 \n안성에서 50번, 70번 버스 이용"/>
 
 </RelativeLayout>
