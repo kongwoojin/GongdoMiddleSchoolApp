@@ -128,6 +128,7 @@ public class CafeActivity extends AppCompatActivity {
                      * TODO 원하는 오류 처리방식으로 수정하세요
                      */
                     Toast.makeText(getApplicationContext(), R.string.no_network_msg, Toast.LENGTH_SHORT).show();
+                    finish();
                 }
 
                 return;

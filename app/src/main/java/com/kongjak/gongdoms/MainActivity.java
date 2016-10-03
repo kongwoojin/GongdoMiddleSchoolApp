@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void map(View v) {
 
+        Intent myintent = new Intent(this, MapActivity.class);
+        startActivity(myintent);
         Snackbar.make(v, "추가 준비중...", Snackbar.LENGTH_SHORT)
                 .setAction("Action", null).show();
     }

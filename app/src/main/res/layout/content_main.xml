@@ -27,8 +27,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         card_view:cardCornerRadius="4dp"
-        android:layout_marginTop="1dp"
-        android:layout_marginBottom="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:onClick="intro"
         android:orientation="vertical">
 
@@ -81,8 +83,10 @@
         android:layout_height="wrap_content"
         card_view:cardCornerRadius="4dp"
         android:layout_below="@+id/card_view"
-        android:layout_marginTop="1dp"
-        android:layout_marginBottom="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:onClick="notice"
         android:orientation="vertical">
 
@@ -135,8 +139,10 @@
         android:layout_height="wrap_content"
         card_view:cardCornerRadius="4dp"
         android:layout_below="@+id/card_view2"
-        android:layout_marginTop="1dp"
-        android:layout_marginBottom="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:onClick="meal"
         android:orientation="vertical">
 
@@ -189,8 +195,10 @@
         android:layout_height="wrap_content"
         card_view:cardCornerRadius="4dp"
         android:layout_below="@+id/card_view3"
-        android:layout_marginTop="1dp"
-        android:layout_marginBottom="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:onClick="rule"
         android:orientation="vertical">
 
@@ -242,8 +250,10 @@
         android:layout_height="wrap_content"
         card_view:cardCornerRadius="4dp"
         android:layout_below="@+id/card_view4"
-        android:layout_marginTop="1dp"
-        android:layout_marginBottom="1dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:onClick="map"
         android:orientation="vertical">
 
