@@ -46,10 +46,6 @@ public class NoticeActivity extends AppCompatActivity {
     private ListView BBSList;
     private int BBSlocate;
 
-    private ConnectivityManager cManager;
-    private NetworkInfo mobile;
-    private NetworkInfo wifi;
-
     ArrayList<ListData> mListData = new ArrayList<>();
 
 
@@ -85,23 +81,23 @@ public class NoticeActivity extends AppCompatActivity {
 
         url = URL_PRIMARY + GETNOTICE; //파싱하기전 PRIMARY URL 과 공지사항 URL 을 합쳐 완전한 URL 을만든다.
 
-        if(isInternetCon()) { //false 반환시 if 문안의 로직 실행
-            Toast.makeText(NoticeActivity.this, R.string.no_network_msg, Toast.LENGTH_SHORT).show();
-            finish();
-        }else{ //인터넷 체크 통과시 실행할 로직
+        final ConnectivityManager manager = (ConnectivityManager) this.getSystemService(Context.CONNECTIVITY_SERVICE);
+
+        NetworkInfo data = manager.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
+        NetworkInfo wifi = manager.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
+
+        if (data.isConnected()|wifi.isConnected()) {
             try {
                 process(); //네트워크 관련은 따로 쓰레드를 생성해야 UI 쓰레드와 겹치지 않는다. 그러므로 Thread 가 선언된 process 메서드를 호출한다.
                 BBSAdapter.notifyDataSetChanged();
             } catch (Exception e) {
                 Log.d("ERROR", e + "");
-
+                finish();
             }
-        }
-
-
-
-
-
+        }else {
+                Toast.makeText(NoticeActivity.this, R.string.no_network_msg, Toast.LENGTH_SHORT).show();
+                finish();
+            }
     }
 
 
@@ -200,16 +196,6 @@ public class NoticeActivity extends AppCompatActivity {
 
 
 
-    private boolean isInternetCon() {
-        cManager=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
-        mobile = cManager.getNetworkInfo(ConnectivityManager.TYPE_MOBILE); //모바일 데이터 여부
-        wifi = cManager.getNetworkInfo(ConnectivityManager.TYPE_WIFI); //와이파이 여부
-        return !mobile.isConnected() && !wifi.isConnected(); //결과값을 리턴
-    }
-
-
-
-
     // <리스트 적용부분
     class ViewHolder {
 
@@ -266,7 +252,7 @@ public class NoticeActivity extends AppCompatActivity {
             ListData mData = mListData.get(position);
 
 
-            if(mData.mType.equals("공지")){
+            if(mData.mType.equals("[공지]")){
                 holder.mTitle.setText(Html.fromHtml("<font color=#616161>[공지] </font>" +mData.mTitle)); //"공지" 의 색깔을 부분적으로 약간 진하게 수정.
             }else{
                 holder.mTitle.setText(mData.mTitle);

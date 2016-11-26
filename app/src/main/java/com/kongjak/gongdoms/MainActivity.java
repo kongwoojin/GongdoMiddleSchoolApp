@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -29,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
     }
     public void notice(View v) {
 
@@ -48,17 +48,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(myintent);
     }
 
-    public void rule(View v) {
-
-        Snackbar.make(v, "추가 준비중...", Snackbar.LENGTH_SHORT)
-                .setAction("Action", null).show();
-    }
     public void map(View v) {
 
         Intent myintent = new Intent(this, MapActivity.class);
         startActivity(myintent);
-        Snackbar.make(v, "추가 준비중...", Snackbar.LENGTH_SHORT)
-                .setAction("Action", null).show();
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

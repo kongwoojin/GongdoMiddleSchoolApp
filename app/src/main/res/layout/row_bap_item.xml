@@ -34,7 +34,8 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="2000년 00월 00일"
-            android:textSize="25dp" />
+            android:textSize="25dp"
+            android:textColor="#cfd8dc"/>
 
         <TextView
             android:id="@+id/mDayOfTheWeek"
@@ -42,7 +43,8 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="월요일"
-            android:textSize="20dp" />
+            android:textSize="20dp"
+            android:textColor="#cfd8dc"/>
 
     </LinearLayout>
 </android.support.v7.widget.CardView>
