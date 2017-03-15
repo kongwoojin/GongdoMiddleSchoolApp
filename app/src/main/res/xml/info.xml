@@ -27,5 +27,11 @@
             android:key="allSource"
             android:title="@string/opensource"
             android:summary="오픈소스 라이선스 확인"/>
+        <Preference
+            android:title="오픈 소스">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/kongwoojin/GongdoMiddleSchoolApp" />
+        </Preference>
     </PreferenceCategory>
 </PreferenceScreen>

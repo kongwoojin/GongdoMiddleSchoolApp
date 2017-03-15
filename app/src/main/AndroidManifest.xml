@@ -22,18 +22,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".info" />
-        <activity android:name=".RuleActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-            </intent-filter>
-        </activity>
         <activity android:name=".NoticeActivity" />
         <activity android:name=".CafeActivity" />
         <activity android:name=".SchoolActivity" />
-        <activity
-            android:name=".RuletableActivity"
-            android:screenOrientation="landscape" />
-        <activity android:name=".MapActivity"></activity>
+        <activity android:name=".MapActivity" />
     </application>
 
 </manifest>
