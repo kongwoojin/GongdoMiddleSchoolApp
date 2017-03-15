@@ -2,88 +2,220 @@
 <items version="2" >
 
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\src\libs\jericho-android.3.3.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.gradle/caches/modules-2/files-2.1/net.htmlparser.jericho/jericho-html/3.4/799191f451f5a6910ce37b0147771489ab46fed/jericho-html-3.4.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="5c30622c60db21e28fa04192228990ecf6425f46">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\jericho-android.3.3_91627926fd405d54e16d653df1b47665941239c4.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="0799191f451f5a6910ce37b0147771489ab46fed">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/jericho-html-3.4_6406351b60e17544da1e0156bd3de9df20ca8b5d/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/9da7f6a562f2d13e0b97cead9966582efb07146f/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_0987995a699f8f3bf8e9910c4bc6c84df654def9.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d3b5a1990dad5918764f292edc7f1302476f4e8/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.gradle/caches/modules-2/files-2.1/net.htmlparser.jericho/jericho-html/3.4/799191f451f5a6910ce37b0147771489ab46fed/jericho-html-3.4.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_9f32939ba78db9ec6a1ed70f198e3eb564abcb80.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="0799191f451f5a6910ce37b0147771489ab46fed">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/jericho-html-3.4_6406351b60e17544da1e0156bd3de9df20ca8b5d/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/5383015471599e34702bffe00389192691512d2b/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="db0d404e947a9d01b36cb52db8129d199f6156ac">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b7170e8b26d07510a5423f73149175eae7aa0d2f.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed9dc443eb1dfff77d752a9b227166da73814de2/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/57b7ced85262e14560ff96f52db61fea5c26b1e9/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_ee650ed838f9202b6cb8737a999f638e1fdb66ed.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5092f463ee68aeb51eeb3cbd4d6d9ebc10775983/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/ec23471074eec8c4dada799ad4d0bbc1a092e837/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_78e3d8c2e4156dbe19a96d5777a8b806401aa1da.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e674560d259692d6e3b9796d95c82b5f714a8d7/classes.dex" />
     </item>
     <item
-        jar="D:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        is-multidex="true"
+        jar="/home/kongjak/Android/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_8f2c82b9b5149d2f87850bab29c1166d6acc288c.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b1e73fd3ab752ccfc123e41e4fa0b0507081a83a/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        is-multidex="true"
+        jar="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_391908b95b4c62b64c4185da0a8c24bcd67d2066.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42e13ca6d0db7964e38957d161ea3975724175d8/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/9da7f6a562f2d13e0b97cead9966582efb07146f/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_b4c35e77977c4b44cc804d804692aca4cf211bfc.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d3b5a1990dad5918764f292edc7f1302476f4e8/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/d5953be6167cd410fe2a3cc5f81419270a25db1d/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_1e62f89ebefa7076ed81c59576038771e4b3ad31.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fa33687e983924eb48fdfede28f7532605d7b08/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/adff15957c9e9f8af18dc7727ac35f1effbfc409/output/jars/classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="ef949d0d58a4dec65d23d12c6ec78888408671ca">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\instant-run_b4ef6fb3af51d99e6e2f474be299443b93398776.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_833980bfc8d8490f35c69f56644d50eca761e67f/classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="D:\AndroidStudio\GongdoMiddleSchool\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_93b20ef17c104ccab66ca9bc0348d8d243ac0b53.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5880611e9331a631b8ffe02293a978fa6936d6d">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a18b86f281f688c13ca19f05b99a57e0293d535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/36a92cc6b404091467f671625e14c498de9dc431/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f630fe5d893e66b50bbb28b71a9510353435dd7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/e357f5c25b5ff55a3495577ae9c0fe4c1435b17e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5351ce4097a2088536c7921a2891e7b67b2cfd99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/Android/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b1e73fd3ab752ccfc123e41e4fa0b0507081a83a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/f693d44e4898c3ef6fd58e1eee8ac4194d4a8ee3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54c1a4c34c44438697c6ab38a209bac75e5063c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42e13ca6d0db7964e38957d161ea3975724175d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/2a115d0dfc550e6219fb12fadc9770d5122a0f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ee6780a717b86abb848ecf0186b42bda9479d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/c6b2a99f65dd3a1bb1f1a1d450f572170da28b2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59c7183d4b4fe51511b984f246ee35fbff59558a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/e93364c0be73a72197fcdbd72d97665b394e0675/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_219148f7a3b910855d9ea2fa8c8361d9cfd5fefa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/11acc4a14c00897ff0dffc7a99e596587272b7eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03c3b1c8a3c7628c70f2444916229ebfc13103cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="457fbca17cc6c3c403e2bb1fb9b6a07c9776827a">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a18b86f281f688c13ca19f05b99a57e0293d535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/Android/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_2f3c9676c5a199840763808ef60b277008de18ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kongjak/.android/build-cache/2de8f73b1ee1c8b9f5d40efd216ade61c963ad05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/kongjak/AndroidStudio/GongdoMiddleSchool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a5d8b762dbf5fd19f549edff31e59a156e04fea/classes.dex" />
     </item>
 
 </items>
